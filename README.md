@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Manas Ranjan Dash</h1>
 <h3 align="center">I like to build software products. I'm an open source enthusiast and am excited about Backend Development and some recent technologies of AI, Blockchain.</h3>
