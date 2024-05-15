@@ -35,5 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanasdash&" alt="imanasdash" /></p>
 
 <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Phoenics&theme=react-dark" width="800">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanasdash&theme=react-dark" width="800">
 </div>
