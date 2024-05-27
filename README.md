@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **100xdev**
+- 🌱 I’m currently learning **NextJS**
 
 - 🤝 I’m looking for help with **Devops**
 
